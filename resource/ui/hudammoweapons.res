@@ -263,8 +263,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserve"
-		"xpos"										"60"
-		"ypos"										"-39"
+		"xpos"										"10"
+		"ypos"										"8"
 		"zpos"										"7"
 		"wide"										"60"
 		"tall"										"40"
@@ -275,9 +275,9 @@
 		"font"										"reserve"
 		"fgcolor"									"White"
 
-		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"AmmoInClip1"
+		"pin_corner_to_sibling"						"PIN_CENTER_LEFT"
+		"pin_to_sibling_corner"						"PIN_CENTER_RIGHT"
 	}
 	"AmmoInReserveShadow"
 	{

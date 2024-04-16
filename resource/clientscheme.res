@@ -417,8 +417,6 @@
 	"BitMapFontFiles" {
 "Buttons" "materials/vgui/fonts/buttons_32.vbf" 
 "ButtonsSC" "materials/vgui/fonts/buttons_sc.vbf"
-"times new roman_1" "materials/vgui/fonts/times new roman_430.vbf"
-"calisto" "materials/vgui/fonts/CalistoMT_250.vbf"
 
 }
 
