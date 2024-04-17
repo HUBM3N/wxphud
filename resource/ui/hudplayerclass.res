@@ -52,7 +52,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"eye"
-		"xpos"			"50"
+		"xpos"			"80"
 		"ypos"			"80"
 		"zpos"			"1"
 		"wide"			"35"
